@@ -1,2 +1,2 @@
 #!/bin/bash
-# cat https://jsonplaceholder.typicode.com/users/1
+cat https://jsonplaceholder.typicode.com/users/1
