@@ -1,2 +1,2 @@
 #!/bin/bash
-# less https://jsonplaceholder.typicode.com/users/1
+file https://jsonplaceholder.typicode.com/users/1
