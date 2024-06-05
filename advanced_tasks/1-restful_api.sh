@@ -1,3 +1,3 @@
 /bin/bash
 # YOUR CODE STARTS HERE
-curl -o - https://jsonplaceholder.typicode.com/users
+netcat https://jsonplaceholder.typicode.com/users/1
