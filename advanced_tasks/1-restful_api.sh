@@ -1,2 +1,2 @@
 #!/bin/bash
-wget -O- -q http://localhost/1/downloads.txt
+wget -O- -q https://jsonplaceholder.typicode.com/users/1
