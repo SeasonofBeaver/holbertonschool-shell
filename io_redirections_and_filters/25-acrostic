@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 README.md | tr -s "\n" " " | tr -d " "
+cut -c 1 | tr -s "\n" " " | tr -d " "
